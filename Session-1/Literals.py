@@ -1,4 +1,4 @@
-# values stored in variable called Literal.
+    # values stored in variable called Literal.
 
 a=0b1010  #Binary Literals. Python basically understands by putting value 0b on the variable side
 print(a)  
