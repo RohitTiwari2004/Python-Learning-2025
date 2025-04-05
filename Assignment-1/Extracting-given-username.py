@@ -8,3 +8,5 @@ print(Value[0:position])
 r= input('Enter the string')
 rs= r.index("g")
 print(r[0:rs])
+
+

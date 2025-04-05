@@ -18,3 +18,4 @@ print(float_2)
 #complex literals
 x= 3.14j
 print(x)
+print(c)
