@@ -1,0 +1,1 @@
+# A package is a collection of modules organized in directories (folders) with an __init__.py file. It allows you to structure your Python projects logically.

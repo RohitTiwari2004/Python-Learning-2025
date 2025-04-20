@@ -11,3 +11,4 @@ num=num//10
 c=num%10
 num=num/10 
 print(a+b+c)
+

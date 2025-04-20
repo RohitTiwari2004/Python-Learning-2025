@@ -10,3 +10,14 @@ details=({
     "address": "Shitalnagar"
 })
 print(details['name'])
+
+schooldata = ({
+    "name" :"nepathya",
+     "age" : 24,
+     "address" : "Manigram"
+})
+
+schooldata =({
+    "age":30
+})
+print(schooldata["age"])
